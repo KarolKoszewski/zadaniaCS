@@ -4,6 +4,6 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("elo elo, World!");
+        Console.WriteLine("elo elo elo, World!");
     }
 }
